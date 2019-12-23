@@ -1,0 +1,23 @@
+{
+  "name": "instagram-color-thief",
+  "version": "1.0.0",
+  "description": "Instagram CLI for Lokesh Dhakar's color-thief",
+  "main": "ig-palettes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwnb/instagram-color-thief.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vwnb/instagram-color-thief/issues"
+  },
+  "homepage": "https://github.com/vwnb/instagram-color-thief#readme",
+  "dependencies": {
+    "color-thief": "^2.2.5",
+    "fs": "0.0.1-security"
+  }
+}
