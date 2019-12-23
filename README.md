@@ -12,6 +12,7 @@ Instagram CLI for Lokesh Dhakar's color-thief
 ### Usage
 Call the Node program. The rows are always sorted by dates.
 - With default parameters: `node ig-palettes.js` (Format: CSV, Dates: Yes, Captions: Yes)
+- To change number of color columns, add e.g. `--colorCount=10`
 - To get output without dates, add `--dates=false`
 - To get output without captions, add `--captions=false`
 - To get output in JSON, add `--format=JSON`
